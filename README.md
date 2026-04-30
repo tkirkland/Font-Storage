@@ -4,9 +4,9 @@ A collection of fonts organized by family.
 
 ## Statistics
 
-- Font family count: 169
-- Total zip size: 601.60 MB
-- Upload date: 2025-05-04 10:58:26
+- Font family count: 181
+- Total zip size: 646.91 MB
+- Upload date: 2026-04-30 05:25:56
 
 ## Disclaimer
 
